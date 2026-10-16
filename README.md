@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="./banner.png.png" width="100%" alt="Rajesh Kumar - Developer Banner">
+
+</div>
+
+---
+
+<div align="center">
+
 # 👋 Hey, I'm Rajesh
 
 ### `BUILD • LEARN • BREAK • FIX • REPEAT`
